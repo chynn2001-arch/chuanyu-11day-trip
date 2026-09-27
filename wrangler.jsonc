@@ -3,6 +3,6 @@
   "name": "chuanyu-11day-trip",
   "compatibility_date": "2026-09-25",
   "assets": {
-    "directory": "./public"
+    "directory": "."
   }
 }
